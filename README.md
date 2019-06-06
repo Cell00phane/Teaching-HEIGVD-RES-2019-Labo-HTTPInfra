@@ -4,4 +4,4 @@
 Html template taken from bootstrap, run from docker image using docker run -d -p 9090:80 res/apache.
 
 ## Dynamic content
-Using express
+Using express.js. Randomly generated sentences using chance.js module.
